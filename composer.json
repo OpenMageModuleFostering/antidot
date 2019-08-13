@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/antidot",
+    "type": "magento-module",
+    "license": "LGPL",
+    "homepage": "",
+    "description": "Use AFS STORE search engine seamlessly in Magento",
+    "authors": [
+    {
+        "name": "BoostMyShop",
+        "email": "contact@boostmyshop.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
